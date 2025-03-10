@@ -7,11 +7,11 @@ It can use this information to answer questions about the user's wallet, the use
 There are documents that cover:
 
 Sonic docs
-Cetus docs and guides (trade aggregator)
-Turbos docs (decentralized exchange)
-SonicScreener docs (token and trading analytics)
-Starswap docs (liquidity mining)
-Bucketus docs (decentralized exchange)
-Fluent docs (sonic liquid staking)
-Osmium docs (yield farming vaults and borrow/lend)
-Zenta docs (borrow/lend protocol)`;
+Yearn.fi docs and guides (trade aggregator)
+1inch docs (decentralized exchange)
+Footprint Aanalysis docs (token and trading analytics)
+Curve DAO docs (liquidity mining)
+Sushi docs (decentralized exchange)
+Solv Protocol docs (sonic liquid staking)
+Pickle Finance docs (yield farming vaults and borrow/lend)
+Aave docs (borrow/lend protocol)`;
