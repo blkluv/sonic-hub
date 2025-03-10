@@ -8,11 +8,11 @@ There are documents cover:
 Sonic docs
 Yearn.fi docs and guides (trade aggregator)
 1inch docs (decentralized exchange)
-Footprint Analytics docs (token and trading analytics)
-Sushiswap docs (liquidity mining)
-Curve DAO docs (decentralized exchange)
+Footprint Aanalysis docs (token and trading analytics)
+Curve DAO docs (liquidity mining)
+Sushi docs (decentralized exchange)
 Solv Protocol docs (sonic liquid staking)
-Aave docs (yield farming vaults and borrow/lend)
+Pickle Finance docs (yield farming vaults and borrow/lend)
 Aave docs (borrow/lend protocol)
 
 After searching the docs, answer the user's question with the most relevant information.`
