@@ -6,3 +6,5 @@ export * from './supply';
 export * from './borrow';
 export * from './withdraw';
 export * from './repay';
+export * from './staking';
+export * from './swap';
